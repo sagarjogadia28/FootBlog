@@ -1,0 +1,26 @@
+1. blogger_info	
+	- blogger_id(auto_increment)(primary)
+	- blogger_username
+	- blogger_password
+	- blogger_creation_date
+	- blogger_is_active
+	- blogger_updated_date
+	- blogger_end_date 
+
+2. blog_master
+	- blog_id(auto_increment)(primary)
+	- blogger_id(foreign)
+	- blog_title
+	- blog_desc
+	- blog_category
+	- blog_auther
+	- blog_is_active
+	- creation_date
+	- updated_date
+
+3. blog_detail
+	- blog_detail_id(auto_increment)
+	- blog_id(foreign)
+	- blog_detail_image
+
+			

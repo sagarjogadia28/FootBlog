@@ -1,0 +1,72 @@
+.box{
+	border: 2px red dotted;
+}
+
+body,html{
+	height: 500%;
+	width: 100%;
+	
+}
+div.dashboard{
+	height: 100%;
+	padding: 0px;
+	border: 0px;
+	margin: 0px;
+	width: 15%;
+	float: left;
+	background-color: #505050;
+
+}
+
+div.mycontent{
+	margin-left: 15%;
+	height: 100%;
+	background-color: #3E3D3D;
+}
+
+li{
+	list-style: none;
+	padding: 20px;
+}
+
+
+div.content-inner{
+	padding: 100px;
+	color: #FFFFFF;
+}
+div.custom_row{
+	background-color: #464545;
+	padding: 0px;
+	padding-bottom: 10px;
+}
+
+div.heading{
+	background-color: #050505;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+
+footer.posted{
+	margin-top: 5px;
+	margin-left: 9px;
+	font-size: 15px;
+	color: #F0F7CD;
+	margin-right: 10px;
+}
+
+h4.nameofperson{
+	margin-left: 10px;
+	/*color: #C2F902;*/
+	color: #FFFC00;
+}
+
+span.mybadge{
+	background-color: #DEB72E;
+	color: #060606;
+}
+
+span.mylabel{
+	color: #FFFFFF;
+	width: auto;
+	margin: 10px;
+}

@@ -1,0 +1,93 @@
+button.signIn{
+	background-color: #006699;
+	border: 0px;
+}
+
+button.signIn:focus
+{
+	background-color: #00527A!important;
+}
+button.signIn:hover{
+	background-color: #00527A;
+}
+
+body{
+	background-image: url("../Images/football_background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+}
+form.navbar-right{
+	margin-right: -100px;
+}
+
+a.FootBlog{
+	font-size: 25px;
+	margin-left: -110px !important;
+}
+a.contact{
+	margin-left: -100px !important;
+	margin-top: -8px;
+}
+
+div.signup{
+	width: 	400px;
+	margin: auto;
+	margin-top: 250px;
+}
+
+input.form-control{
+	margin:5px;
+}
+
+button.btn-default{
+	margin:5px;
+}
+
+h2.form-signin-heading{
+	color: #FFFFFF;
+	font-size: 50px;
+	text-align: center;
+}
+input:focus {
+	background-color: #FFFFCC;
+}
+
+button.btn-block{
+	background-color: #006699;
+	margin-left:4px;
+	border: 0px;
+}
+
+button.btn-block:hover{
+	background-color: #00527A;
+}
+button.btn-block:focus{
+	background-color: #00527A;
+}
+
+
+p.error{
+	margin-left: 10px;
+	color: #F6FF00;
+	font-weight: bold;
+}
+
+a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}

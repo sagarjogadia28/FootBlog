@@ -1,0 +1,148 @@
+button.signIn{
+	background-color: #006699;
+	border: 0px;
+}
+
+button.signIn:focus
+{
+	background-color: #00527A!important;
+}
+button.signIn:hover{
+	background-color: #00527A;
+}
+
+body{
+	height: 100%;
+	margin: 0;
+	padding:0;
+	background-image: url("../Images/football_background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+}
+form.navbar-right{
+	margin-right: -100px;
+}
+a.FootBlog{
+	font-size: 25px;
+	margin-left: -110px !important;
+}
+
+a.contact{
+	margin-left: -100px !important;
+	margin-top: -8px;
+}
+
+a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+blockquote {
+	font-family: Georgia, serif;
+	font-size: 28px;
+	font-style: italic;
+	width: 500px;
+	margin: 0.25em 0;
+	padding: 0.25em 40px;
+	line-height: 1.45;
+	position: relative;
+	color: #FFFFFF;
+	border-left: 0px;
+}
+
+blockquote:before {
+display:block;
+content: "\201C";
+font-size: 100px;
+position: absolute;
+left: -10px;
+top: -35px;
+color: #FFD800;
+}
+
+blockquote cite {
+color: #FFD800;
+font-size: 24px;
+display: block;
+margin-top: 5px;
+}
+ 
+blockquote cite:before {
+content: "\2014 \2009";
+}
+
+div.BlockQuote{
+	width: 	400px;
+	margin: auto;
+	margin-left: 450px;
+	margin-top: 150px;
+}
+
+div.Exp{
+	margin-top: 40px;
+	background-color: #050101;
+	padding-bottom: 10px;
+}
+p.welcome{
+	font-family: Georgia, serif;
+	color: #FFFFFF;
+	font-size: 50px;
+}
+
+button.explore{
+	background-color: #EAFF00;
+	color: #000000;
+	font-weight: bold;
+	border: 0px;
+}
+
+button.explore:hover {
+	color: #000000;
+	background-color: #CEDD23; 
+}
+
+button.explore:focus{
+	color: #000000!important;
+	background-color: #CEDD23!important; 
+}
+
+html{
+	height: 100%;
+	margin: 0;
+	padding:0;
+}
+
+#wrapper{
+	min-height: 100%;
+	position: relative;
+}
+
+#footer{
+	position: absolute;
+	background-color: #818181;
+	height: 40px;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+}
+
+p.foot{
+	color: #FFFFFF;
+	font-size: 15px;
+	padding-top: 10px;
+}

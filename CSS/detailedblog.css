@@ -1,0 +1,27 @@
+hr{
+	border:1px double red;
+
+}
+
+h1{
+	font-family: Georgia, serif;
+	color: #246208;
+}
+
+h2{
+	font-family: Georgia, serif;
+	color: #340CFF;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+footer{
+	font-size: 25px;
+	font-weight:bold;
+}
+
+span{
+	font-size: 20px;
+	font-weight: normal;
+	color: #6C6A6A;
+}

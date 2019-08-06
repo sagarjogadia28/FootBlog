@@ -1,0 +1,54 @@
+input.form-control{
+	margin:5px;
+}
+textarea , button.send{
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+p.error{
+	margin-left: 10px;
+	color: #FF4200;
+	font-size: 20px;
+}
+
+/*div.left input.f{
+	margin-left: 50px;
+	margin-top: 10px;
+}
+*/
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+    background-color: #FF1414;
+    width: 100px;
+}
+
+.fileUpload input.f {
+    position: absolute;
+    border:0px;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.fileUpload:hover,.fileUpload:focus{
+	background-color: #A61818;
+	 border:0px;	
+}
+
+
+
+
+div.left input.btn-primary{
+	margin-top: 5px;
+	margin-left: 50px;
+}
+

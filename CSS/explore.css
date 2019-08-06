@@ -1,0 +1,85 @@
+div.heading{
+	background-color: #050505;
+	padding: 5px;
+	margin-bottom: 15px;
+
+}
+div.custom_row{
+	background-color: #FFFFFF;
+	padding: 0px;
+
+}
+
+div.newblog{
+	margin-top: -100px;
+	margin-left: 8%;
+	height: 1000%;
+	padding: 100px;
+}
+
+/*footer.posted{
+	margin-top: 5px;
+	margin-left: 9px;
+	font-family: Georgia, serif;
+	color: #FDE801;
+	font-weight: bold;
+}*/
+
+footer.posted{
+	font-size: 20px;
+	font-weight:bold;
+	color: #F8F2F2;
+}
+
+span{
+	font-size: 20px;
+	font-weight: normal;
+	color: #6C6A6A;
+}
+div.wrapper{
+	margin-right: 10%;
+}
+
+.box{
+	border: 2px red dotted;
+}
+body{
+
+	background-image: url("../Images/football_background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+}
+
+a.author{
+	color: #050505;
+}
+
+a.author:hover{
+	font-size: 20px;
+}
+
+p.mydesc{
+	font-family: Georgia, serif;
+	color: #340CFF;
+	font-size: 20px;
+	line-height: 25px;
+}
+
+/*h2.h{
+	margin-left: 10px;
+}*/
+
+/*div.desc{
+	margin-left: 10px;
+}*/
+
+
+h2.nameofperson{
+	color: #FFEA00;
+	margin-left: 10px;
+}
+
+div.bottom{
+	background-color: #CCC5B9;
+}

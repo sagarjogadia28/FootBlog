@@ -1,0 +1,55 @@
+
+input:focus {
+	background-color: #FFFFCC;
+}
+
+button.btn-block{
+	background-color: #006699;
+	margin-left:4px;
+	border: 0px;
+}
+
+button.btn-block:hover{
+	background-color: #00527A;
+}
+button.btn-block:focus{
+	background-color: #00527A;
+}
+
+div.contact {
+	width: 	400px;
+	margin: auto;
+	margin-top: 150px;
+}
+
+body{
+	background-image: url("../Images/grass.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	height: 100%;
+	margin: 0;
+	padding:0;
+}
+
+h2{
+	color: #FFFFFF;
+	font-size: 50px;
+	text-align: center;
+	font-family: Georgia, serif;
+}
+
+input.form-control{
+	margin:5px;
+}
+textarea , button.send{
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+p.error{
+	margin-left: 10px;
+	color: #F6FF00;
+	font-size: 20px;
+	/*font-weight: bold;*/
+}

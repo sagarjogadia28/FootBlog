@@ -1,0 +1,43 @@
+form.navbar-right{
+	margin-right: -100px;
+}
+a.FootBlog{
+	font-size: 25px;
+	margin-left: -110px !important;
+}
+
+a.contact{
+	margin-left: -100px !important;
+	margin-top: -8px;
+}
+
+a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+button.signIn{
+	background-color: #006699;
+	border: 0px;
+}
+
+button.signIn:focus
+{
+	background-color: #00527A!important;
+}
+button.signIn:hover{
+	background-color: #00527A;
+}

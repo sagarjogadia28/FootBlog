@@ -1,0 +1,18 @@
+hr{
+	border:1px double red;
+
+}
+
+h1{
+	font-family: Georgia, serif;
+	color: #FF0000;
+}
+
+h2{
+	font-family: Georgia, serif;
+	color: #340CFF;
+}
+
+h3{
+	font-size: 25px;
+}
